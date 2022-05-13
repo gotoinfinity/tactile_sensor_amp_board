@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-09T06:46:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "tactileSensorI2c"
+        },
+        "Owner": "  <gotou.kousuke514@mail.kyutech.jp>",
+        "Size": {
+            "X": 90,
+            "Y": 60
+        }
+    }
+}
